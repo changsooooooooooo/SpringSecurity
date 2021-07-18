@@ -1,9 +1,0 @@
-
-
-dependencies {
-
-    implementation ("$boot:spring-boot-starter-web")
-    implementation project(path: ":comp-common-utils")
-
-}
-
